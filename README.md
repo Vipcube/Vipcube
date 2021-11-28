@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 country: Taiwan
 technologies:
   language: ['java', 'kotlin']
-  backend: ['springboot', 'spring cloud', 'quarkus']
+  backend: ['springboot', 'spring cloud', 'quarkus', 'docker']
   frontend: ['javascript', 'jquery', 'zk']
 ```
 
