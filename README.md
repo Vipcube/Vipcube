@@ -20,7 +20,8 @@ country: Taiwan
 technologies:
   language: ['java', 'kotlin']
   backend: ['springboot', 'spring cloud', 'quarkus', 'docker']
-  frontend: ['javascript', 'jquery', 'zk']
+  frontend: ['javascript', 'jquery', 'zk','svelte']
+  infra: ['grafana','kafka','prometheus']
 ```
 
 [![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
