@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ```yml
 country: Taiwan
 technologies:
-  language: ['java', 'kotlin']
-  backend: ['springboot', 'spring cloud', 'quarkus', 'docker']
-  frontend: ['javascript', 'jquery', 'zk', 'svelte']
+  language: ['java', 'kotlin', 'nodejs']
+  backend: ['springboot', 'spring cloud', 'quarkus', 'nestjs', 'docker']
+  frontend: ['javascript', 'zk', 'svelte']
   infra: ['grafana', 'kafka', 'prometheus']
 ```
 
