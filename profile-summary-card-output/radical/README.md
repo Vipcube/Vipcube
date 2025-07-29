@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/radical/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/radical/3-stats.svg)
 ```
 
     

@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
 ```
 
     

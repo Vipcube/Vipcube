@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/codeSTACKr/3-stats.svg)
 ```
 
     

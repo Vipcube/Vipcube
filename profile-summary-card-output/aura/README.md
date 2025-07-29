@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/aura/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/aura/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/aura/3-stats.svg)
 ```
 
     
