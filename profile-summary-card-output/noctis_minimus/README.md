@@ -25,30 +25,10 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Vipcube/Vipcube/main/profile-summary-card-output/noctis_minimus/3-stats.svg)
 ```
 
     
